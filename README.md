@@ -1,6 +1,6 @@
 # gobyexample.com Alfred 4 Workflow
 
-![GitHub release](https://img.shields.io/github/release/alfonmga/gobyexample-alfred-workflow.svg?cache=v0.0.1)
+![GitHub release](https://img.shields.io/github/release/alfonmga/gobyexample-alfred-workflow.svg?cache=0.0.1)
 
 ![demo](demo.png)
 
